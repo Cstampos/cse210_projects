@@ -7,7 +7,6 @@ class Program
         journal diary = new journal();
         promptgenerator promptgen = new promptgenerator();
         int option = 0;
-
         while (option != 5)
         {
             Console.WriteLine("Welcome to the Journal Program!");
